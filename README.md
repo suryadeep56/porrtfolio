@@ -1,2 +1,3 @@
 # porrtfolio
-My portfolio website 
+My portfolio website as a part of SF Web Development Training.
+
