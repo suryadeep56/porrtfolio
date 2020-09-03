@@ -1,3 +1,4 @@
-# porrtfolio
-My portfolio website as a part of SF Web Development Training.
+# portfolio
+Hello, This is Suryadeep Mandal.
+Link to the website(my portfolio) is: https://suryadeep56.github.io/portfolio/
 
